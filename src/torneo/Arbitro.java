@@ -7,7 +7,7 @@ package torneo;
 
 /**
  *
- * @author B045_13
+ * @author Filippo Mattioli
  */
 public class Arbitro {
     

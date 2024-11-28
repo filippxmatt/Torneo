@@ -6,15 +6,16 @@ package torneo;
 
 /**
  *
- * @author B045_13
+ * @author Filippo Mattioli
  */
 public class Torneo {
-
+    
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Messaggio di testo sulla classe");
     }
     
 }
