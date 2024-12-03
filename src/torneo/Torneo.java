@@ -16,6 +16,8 @@ public class Torneo {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Messaggio di testo sulla classe");
+        
+        System.out.println("Questo è il ramo per la progettazione dell'arbitro");
     }
     
 }
