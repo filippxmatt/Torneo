@@ -1,12 +1,12 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ * Questo è un commento di test
  */
 package torneo;
 
 /**
  *
  * @author Filippo Mattioli
+ * @see schedaEsercitazione
  */
 public class Torneo {
     
